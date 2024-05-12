@@ -9,7 +9,7 @@ Suppose, a class has 'N' number of students, and the teacher has taken 'M' numbe
 |       Input       |       Output       |
 | ------------------| -------------------|
 |N = 3, M = 3 </br>|Percentage:</br>|
-|Day 1: [2, 3, 1] </br>Day 2: [3, 1]</br>Day 3: [3] | Student 1: 66.66% </br>Student 2: 33.33%</br> Student 3: 100%|
+|Day 1: [1, 2, 3] </br>Day 2: [1, 3]</br>Day 3: [3] | Student 1: 66.66% </br>Student 2: 33.33%</br> Student 3: 100%|
 
 #### Concept used in the code
 1. Structure
@@ -17,6 +17,10 @@ Suppose, a class has 'N' number of students, and the teacher has taken 'M' numbe
 3. Node
 4. Linked List
 5. pointer
+
+#### Instruction
+Values of N and M is by default coded = 3. Change the value if you want to</br>
+If student present the day **type 1 else 0**.
 
 
 
