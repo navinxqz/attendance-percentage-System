@@ -13,8 +13,10 @@ Suppose, a class has 'N' number of students, and the teacher has taken 'M' numbe
 
 #### Concept used in the code
 1. Structure
-2. Linked List
-3. pointer
+2. Function
+3. Node
+4. Linked List
+5. pointer
 
 
 
