@@ -6,7 +6,7 @@ Suppose, a class has 'N' number of students, and the teacher has taken 'M' numbe
 **N.B:** Assume, the student's roll numbers are sequential. Students' roll numbers will always start from 1 and it will go up to N.
 </br>
 ## Sample:
-|       Input       |       Output       |
+|       Instruction       |       Output       |
 | ------------------| -------------------|
 |N = 3, M = 3 </br>|Percentage:</br>|
 |Day 1: [1, 2, 3] </br>Day 2: [1, 3]</br>Day 3: [3] | Student 1: 66.66% </br>Student 2: 33.33%</br> Student 3: 100%|
