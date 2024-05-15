@@ -21,6 +21,8 @@ Suppose, a class has 'N' number of students, and the teacher has taken 'M' numbe
 #### Instruction
 Values of N and M is by default coded = 3. Change the value if you want to</br>
 If student present the day **type 1 else 0**.
+## Compiler Output
+<img align="center" src= "./output.PNG">
 
 
 
